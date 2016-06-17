@@ -1,0 +1,26 @@
+{
+  "name": "bowerBasic",
+  "description": "First Bower package",
+  "main": "index.html",
+  "keywords": [
+    "bowerbasic"
+  ],
+  "authors": [
+    "Manisha"
+  ],
+  "license": "MIT",
+  "homepage": "about:blank",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.2",
+    "bootstrap": "2.3.2",
+    "jquery": "2.2.4",
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}
